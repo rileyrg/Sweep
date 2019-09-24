@@ -5,6 +5,7 @@ clang
 
 -I/home/rgr/development/arduino/projects/Sweep/include
 -I/home/rgr/development/arduino/projects/Sweep/src
+-I/home/rgr/development/arduino/projects/Sweep/lib/MyServerLib
 -I/home/rgr/development/arduino/projects/Sweep/.pio/libdeps/uno/Servo_ID883/src
 -I/home/rgr/.platformio/packages/framework-arduinoavr/cores/arduino
 -I/home/rgr/.platformio/packages/framework-arduinoavr/variants/standard
