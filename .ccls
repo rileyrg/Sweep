@@ -3,6 +3,8 @@ clang
 %c -std=c11
 %cpp -std=c++11
 
+%h -x c++-header
+
 -I/home/rgr/development/arduino/projects/Sweep/include
 -I/home/rgr/development/arduino/projects/Sweep/src
 -I/home/rgr/development/arduino/projects/Sweep/lib/MyServoLib
